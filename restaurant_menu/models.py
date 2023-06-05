@@ -4,7 +4,7 @@ from django.contrib.auth.models import User
 MEAL_TYPE = (
     ("starters", "Starters"),
     ("salads", "Salads"),
-    ("main_dishes", "Main_dishes"),
+    ("main_dishes", "Main Dishes"),
     ("deserts", "Deserts")
 )
 
